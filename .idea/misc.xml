@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/drawable/background.xml" value="0.1265625" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/drawable/ic_branch.xml" value="0.1265625" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/drawable/shape_lefet_panel.xml" value="0.1265625" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/drawable/shape_login_panel.xml" value="0.1" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_forget.xml" value="0.1296875" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_login.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_main2.xml" value="0.10905349794238683" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_main_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_sign_up.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_splash_screen.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/activity_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_first.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_home.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_profile.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_second.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_study.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/layout/fragment_third.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Deepak Gupta/AndroidStudioProjects/D2waits/app/src/main/res/menu/bottom_menu.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

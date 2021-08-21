@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950043593418",
+    "project_id": "d2waits-58b81",
+    "storage_bucket": "d2waits-58b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950043593418:android:089a01fc3518461ad08233",
+        "android_client_info": {
+          "package_name": "com.example.d2waits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950043593418-4uve6j5j64q8a2g4c0n6nkthnbkn0dur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EFDRMhxyGzYw0E4W6CWQDRYXBuwOX_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950043593418-4uve6j5j64q8a2g4c0n6nkthnbkn0dur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
